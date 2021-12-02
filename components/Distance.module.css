@@ -1,0 +1,12 @@
+.apiInfo {
+  display: flex;
+  flex-flow: row wrap;
+}
+
+.positionInfo {
+  padding: 2rem;
+}
+
+.locationInfo {
+  padding: 2rem;
+}
